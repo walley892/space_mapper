@@ -1,0 +1,4 @@
+pycuda==2021.1
+numpy==1.19.5
+engine==0.1.0
+open3d==0.12.0+850fcfaf
