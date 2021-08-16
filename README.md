@@ -1,8 +1,11 @@
 # Space mapper
 
+![](sample2.gif)
+
 This package allows users to create 3d meshes (.stl format) of real-world spaces using the Microsoft Azure Kinect, stitching multiple rgbd images into a single mesh.
 This package also features a method to reduce the total number of triangles in the final mesh by culling redundant trianges from overlapping images.
 
+![](sample1.gif)
 
 # Features
 * A custom algorithm for culling redundant triangles to create one cohesive mesh
